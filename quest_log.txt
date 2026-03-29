@@ -21,3 +21,4 @@ Quest Progress: 20
 Quest Progress: 21
 Quest Progress: 22
 Quest Progress: 23
+Quest Progress: 24

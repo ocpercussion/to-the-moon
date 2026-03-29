@@ -5,3 +5,4 @@ Quest Progress: 4
 Quest Progress: 5
 Quest Progress: 6
 Quest Progress: 7
+Quest Progress: 8

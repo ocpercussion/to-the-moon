@@ -35,3 +35,4 @@ Quest Progress: 34
 Quest Progress: 35
 Quest Progress: 36
 Quest Progress: 37
+Quest Progress: 38

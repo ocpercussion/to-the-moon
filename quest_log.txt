@@ -77,3 +77,4 @@ Quest Progress: 76
 Quest Progress: 77
 Quest Progress: 78
 Quest Progress: 79
+Quest Progress: 80

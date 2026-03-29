@@ -72,3 +72,4 @@ Quest Progress: 71
 Quest Progress: 72
 Quest Progress: 73
 Quest Progress: 74
+Quest Progress: 75
